@@ -1,1 +1,19 @@
+Public Cloud: Cloud resources that are owned and operated by a third-party cloud service provider and accessed over the internet.
 
+Private Cloud: Cloud resources used exclusively by one business or organization, often in a data center owned by the organization.
+
+Hybrid Cloud: A combination of public cloud and private cloud environments.
+
+Capital Expenditure (CapEx): Upfront costs for purchasing infrastructure, such as servers and data centers.
+
+Operational Expenditure (OpEx): Ongoing costs for using cloud services without the need for upfront infrastructure investments.
+
+Infrastructure as a Service (IaaS): Provides access to virtualized computing resources where the user manages the operating system, networks, and storage.
+
+Platform as a Service (PaaS): Provides a platform for developing, testing, and deploying applications, with the cloud provider managing the underlying infrastructure.
+
+Software as a Service (SaaS): Provides access to software applications hosted by the cloud provider, where the user does not manage the underlying infrastructure.
+
+Scalability: The ability to grow computing resources vertically (by increasing the capacity of a single instance) or horizontally (by adding more instances).
+
+Elasticity: The ability of a cloud system to automatically adapt to changes in demand by dynamically provisioning and de-provisioning resources.
